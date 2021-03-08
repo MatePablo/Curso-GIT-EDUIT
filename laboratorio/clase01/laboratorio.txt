@@ -15,6 +15,7 @@ cuáles son los pasos siguientes que podemos realizar sobre el mismo
 creación del archivo del punto 6
 9. Confirmar en un commit utilizando los atajos del comando git commit para dejar el
 mensaje del mismo en la misma ejecución del comando
+
 BONUS :
 1. Crear una cuenta en GitHub.com
 2. Crear un nuevo repositorio vacío en GitHub.com (tener en cuenta que no debemos
