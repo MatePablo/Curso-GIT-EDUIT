@@ -1,0 +1,28 @@
+WORKING DIRECTORY:	(Directorio de Trabajo)
+	> Es la carpeta donde llevamos a cabo nuestro trabajo. Donde creamos, editamos y eliminamos archivos.
+	> Normalmente todo directorio sea o no un repositorio se considera de trabajo, la diferencia es que
+	con Git se lleva un control del contenido del mismo.
+	> Rara vez utilizaremos la consola Bash de Git para trabajar con el contenido.
+
+COMANDOS:
+
+	Comandos Git Bash:
+	> start				-> Para abrir un archivo.
+	> cd				-> Para navegar entre carpetas.
+	> ls				-> Lista todos los archivos presentes en la carpeta.
+	> clear				-> Limpia la pantalla de la consola.
+	> mkdir <nombre>		-> Crea un directorio con dicho nombre.
+	> rmdir <carpeta>		-> Borra el directorio.
+	> ">" <nombre>			-> Crea el archivo con dicho nombre.
+	> cat/copycon/touch <nombre>	-> Crea un archivo.
+
+	Comandos Git:
+	> git init			-> Inicializa un repositorio en la carpeta actual.
+	> git status			-> Compara el directorio de trabajo con el index.		
+	
+	
+	Si el parametro de un comando GIT es una letra, lleva un guion "-", si es una palabra dos "--". 
+		
+	
+	
+	
