@@ -9,7 +9,7 @@ COMANDOS:
 	Comandos Git Bash:
 	> start				-> Para abrir un archivo.
 	> cd				-> Para navegar entre carpetas.
-	> ls				-> Lista todos los archivos presentes en la carpeta.
+	> ls / dir			-> Lista todos los archivos presentes en la carpeta.
 	> clear				-> Limpia la pantalla de la consola.
 	> mkdir <nombre>		-> Crea un directorio con dicho nombre.
 	> rmdir <carpeta>		-> Borra el directorio.
@@ -18,7 +18,10 @@ COMANDOS:
 
 	Comandos Git:
 	> git init			-> Inicializa un repositorio en la carpeta actual.
-	> git status			-> Compara el directorio de trabajo con el index.		
+	> git status			-> Compara el directorio de trabajo con el index.
+	> git config --list		-> Imprime en pantalla la configuracion de Git.
+	> git config --get-regexp <termino>	-> Busca en la configuracion la palabra especificada.	
+	> rm -rf .git			-> Elimina el repositorio sin afectar a los archivos y carpetas.	
 	
 	
 	Si el parametro de un comando GIT es una letra, lleva un guion "-", si es una palabra dos "--". 
