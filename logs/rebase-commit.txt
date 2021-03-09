@@ -1,0 +1,21 @@
+* 294f0f5 (HEAD -> master) Se edito contenido: Repositorios remotos.
+* 04a1dd0 Se edito contenido: working_directory.txt
+| * 6401abd (repositories) Merge branch 'master' into repositories
+|/|
+| *   4995a63 (cursogit/master) Merge branch 'repositories'
+| |\
+| * | 427dfd2 Se edito contenido: working_directory.txt
+* | | e09d036 (cursogit/repositories) Se edito contenido - remotes
+| |/
+|/|
+* | 26c621d Se añadio contenido - Branch Repositories: remotes.txt
+|/
+* ce13456 Se agrego contenido - local_repository.txt
+* 757e8b7 Se agrego contenido - staging_area.txt | Se movio contenido de carpeta
+* 6adee61 Segundo commit - Se agrego contenido: working_directory.txt
+| * ba5eafc (cursogit/branches, branches) Se agrego contenido - Rama Branch: branches.txt
+|/
+* cfeb8e0 Laboratorio - Segundo commit
+* 45f4568 Laboratorio - Primer commit
+* 3fe1a0f Configuracion - Se agrego user.txt
+* 3064630 Primer commit - se agrego config.txt
