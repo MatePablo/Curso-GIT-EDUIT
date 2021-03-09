@@ -1,0 +1,30 @@
+* edd9157 (HEAD -> branches) Se edito contenido: branch.txt (merge)
+* 6983200 Se edito contenido: branch.txt
+* ba5eafc (cursogit/branches) Se agrego contenido - Rama Branch: branches.txt
+| * f9ebd04 (rebase) Se edito contenido: rebase.txt
+| * 94ffe5b Se agrego contenido: rebase.txt
+| | * 662f722 (cursogit/repositories, repositories) Se edito contenido: working_directory.txt
+| | | *   2d9d794 (cursogit/master, master) Merge branch 'master' of https://github.com/PabloStorino/Curso-GIT-EDUIT
+| | | |\
+| | | | *   4995a63 Merge branch 'repositories'
+| | | | |\
+| | | | * | 427dfd2 Se edito contenido: working_directory.txt
+| | | * | | de77a91 Se agrego contenido: Logs/
+| | | * | | 294f0f5 Se edito contenido: Repositorios remotos.
+| | | * | | 04a1dd0 Se edito contenido: working_directory.txt
+| | |/ / /
+| | * | / e09d036 Se edito contenido - remotes
+| | | |/
+| | |/|
+| | * | 26c621d Se añadio contenido - Branch Repositories: remotes.txt
+| | |/
+| | * ce13456 Se agrego contenido - local_repository.txt
+| | * 757e8b7 Se agrego contenido - staging_area.txt | Se movio contenido de carpeta
+| | * 6adee61 Segundo commit - Se agrego contenido: working_directory.txt
+| |/
+|/|
+* | cfeb8e0 Laboratorio - Segundo commit
+|/
+* 45f4568 Laboratorio - Primer commit
+* 3fe1a0f Configuracion - Se agrego user.txt
+* 3064630 Primer commit - se agrego config.txt
